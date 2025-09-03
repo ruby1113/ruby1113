@@ -1,6 +1,6 @@
 # Hi there, I'm Jelena 👋
 
-![Header](https://raw.githubusercontent.com/ruby1113/ruby1113/main/assets/banner.svg)
+![Header](./github-header-banner.png)
 
 I’m **Jelena** — a passionate **Artist 🎨**, **Programmer 💻**, and **Crypto Enthusiast 🚀**.  
 I love creating, coding, and exploring the future of blockchain and digital art.
